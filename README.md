@@ -52,12 +52,10 @@ This project allows businesses to manage their stock, sales, and purchases effic
    ```bash
    git clone https://github.com/SaiDivyaChukka/Java-Inventory-Management.git
 2. Open the project in IntelliJ IDEA (or any IDE that supports Java).
-
 3. Configure your MySQL database connection in DBConnection.java.
-
 4. Run Main.java to start the application.
-
-✨ Future Improvements
+   
+## **✨ Future Improvements**
 
 Add user authentication
 
@@ -65,6 +63,5 @@ Generate sales reports
 
 Export inventory data to CSV/Excel
 
-## 👩‍💻 Author
+## **👩‍💻 Author**
 **Sai Divya Chukka**
-
