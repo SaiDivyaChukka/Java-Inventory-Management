@@ -21,6 +21,11 @@ This project allows businesses to manage their stock, sales, and purchases effic
 
 ---
 
+## Demo
+![Demo](demo.gif)
+
+---
+
 ## 🖼️ Screenshots
 
 ### Main GUI
